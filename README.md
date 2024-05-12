@@ -104,10 +104,10 @@ Use this space to show useful examples of how a project can be used. Additional 
   
 
 <div align="center" display="inline-block">
-  <a href="" display="inline-block" width="50%" height="100%">
+  <a href="https://github.com/rezzSalmani/react-quiz/blob/main/src/assets/screenShots/ReactQuizApp1.png" display="inline-block" width="50%" height="100%">
     <img src="https://github.com/rezzSalmani/react-quiz/blob/main/src/assets/screenShots/ReactQuizApp1.png" alt="image1" width="50%" height="100%" display="inline-block">
   </a>
-  <a href="" display="inline-block" width="50%" height="100%">
+  <a href="https://github.com/rezzSalmani/react-quiz/blob/main/src/assets/screenShots/ReactQuizApp3.png" display="inline-block" width="50%" height="100%">
     <img src="https://github.com/rezzSalmani/react-quiz/blob/main/src/assets/screenShots/ReactQuizApp3.png" alt="image2" width="50%" height="100%" display="inline-block">
   </a>
 
