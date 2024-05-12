@@ -8,7 +8,7 @@ export default {
         "lato": "lato",
       },
       backgroundImage: {
-        "main": "url('/images/bg2.jpg')",
+        "main": "url('/images/bg5.jpg')",
       },
     },
     screens: {

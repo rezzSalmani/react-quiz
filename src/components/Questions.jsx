@@ -5,13 +5,15 @@ import Timer from "./Timer";
 import NextQuestion from "./NextQuestion";
 
 const Questions = memo(() => {
+  const { index, questions } = useQuiz();
   return (
     <div className='flex flex-col items-center justify-center w-full h-full gap-4'>
       {<Question />}
       <div className='flex w-full items-center justify-between mx-2'>
-        {/* <span>
+        <span>
           Question {index + 1} of {questions.length}
-        </span> */}
+        </span>
+        <Timer />
         <NextQuestion />
       </div>
     </div>
