@@ -1,4 +1,4 @@
-import { useEffect, memo } from "react";
+import { useEffect } from "react";
 import { useQuiz } from "../context/QuizContext";
 
 function Timer() {
