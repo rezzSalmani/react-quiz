@@ -20,7 +20,7 @@
 <h3 align="center">React Quiz App</h3>
 
   <p align="center">
-   Simple Quiz app which based on the number of questions, users have time to answer and with finishing quiz result showing to them, also users can't skip questions and should answer one to be able to go next question
+   Simple Quiz app which based on the number of questions, users have time to answer and with finishing quiz result will show to them, also users can't skip questions and should answer one of options to be able to go next question
     <br />
     <a href="https://github.com/rezzSalmani/react-quiz">View Demo</a>
     ·
