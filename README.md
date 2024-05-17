@@ -1,15 +1,6 @@
 <a name="readme-top"></a>
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -52,7 +43,7 @@
 * handle errors
 
 ### Built With
-* [![React][React.js]][React-url]
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * [![React](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/context.html)
 * [![React](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
@@ -124,22 +115,3 @@ Project Link: [https://github.com/rezzSalmani/react-quiz](https://github.com/rez
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rezzSalmani/react-quiz.svg?style=for-the-badge
-[contributors-url]: https://github.com/rezzSalmani/react-quiz/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rezzSalmani/react-quiz.svg?style=for-the-badge
-[forks-url]: https://github.com/rezzSalmani/react-quiz/network/members
-[stars-shield]: https://img.shields.io/github/stars/rezzSalmani/react-quiz.svg?style=for-the-badge
-[stars-url]: https://github.com/rezzSalmani/react-quiz/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rezzSalmani/react-quiz.svg?style=for-the-badge
-[issues-url]: https://github.com/rezzSalmani/react-quiz/issues
-[license-shield]: https://img.shields.io/github/license/rezzSalmani/react-quiz.svg?style=for-the-badge
-[license-url]: https://github.com/rezzSalmani/react-quiz/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
